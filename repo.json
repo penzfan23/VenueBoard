@@ -9,9 +9,9 @@
     "DalamudApiLevel": 15,
     "Punchline": "A venue macro board for FF14 hosts.",
     "RepoUrl": "https://github.com/penzfan23/VenueBoard",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/penzfan23/VenueBoard/main/plugins/VenueBoard/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/penzfan23/VenueBoard/main/plugins/VenueBoard/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/penzfan23/VenueBoard/main/plugins/VenueBoard/latest.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/penzfan23/VenueBoard/main/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/penzfan23/VenueBoard/main/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/penzfan23/VenueBoard/main/latest.zip",
     "Tags": [
       "venue",
       "macro",
