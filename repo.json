@@ -3,7 +3,7 @@
     "Author": "Black Lantern",
     "Name": "VenueBoard",
     "InternalName": "VenueBoard",
-    "AssemblyVersion": "0.1.1.0",
+    "AssemblyVersion": "0.1.2.0",
     "Description": "A venue macro board for Final Fantasy XIV hosts.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
