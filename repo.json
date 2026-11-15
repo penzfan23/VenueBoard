@@ -1,21 +1,23 @@
+
 [
   {
     "Author": "Black Lantern",
     "Name": "VenueBoard",
     "InternalName": "VenueBoard",
-    "AssemblyVersion": "0.3.1.0",
-    "Description": "A venue macro board for Final Fantasy XIV hosts.",
+    "AssemblyVersion": "0.3.1.4",
+    "Description": "A venue management plugin for Final Fantasy XIV hosts, featuring macros, auto-announcements, raffles, and a weighted prize wheel.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
-    "Punchline": "A venue macro board for FF14 hosts.",
+    "Punchline": "Your all-in-one FFXIV venue control board.",
     "RepoUrl": "https://github.com/penzfan23/VenueBoard",
-"DownloadLinkInstall": "https://raw.githubusercontent.com/penzfan23/VenueBoard/main/latest.zip",
-"DownloadLinkUpdate": "https://raw.githubusercontent.com/penzfan23/VenueBoard/main/latest.zip",
-"DownloadLinkTesting": "https://raw.githubusercontent.com/penzfan23/VenueBoard/main/latest.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/penzfan23/VenueBoard/main/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/penzfan23/VenueBoard/main/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/penzfan23/VenueBoard/main/latest.zip",
     "Tags": [
       "venue",
       "macro",
-      "utility"
+      "utility",
+      "raffle"
     ]
   }
 ]
